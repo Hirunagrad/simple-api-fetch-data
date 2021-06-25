@@ -1,0 +1,26 @@
+.card{
+  border: 2px;
+  box-shadow: inset;
+  border-radius: 15px;
+  background-color: aquamarine;
+  padding: 5px;
+  margin: 100px;
+  align-items: center;
+  
+}
+
+p{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+button{
+  
+}
